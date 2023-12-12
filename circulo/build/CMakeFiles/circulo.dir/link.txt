@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/circulo.dir/src/circulo.cc.o  -o circulo 
