@@ -1,0 +1,3 @@
+/home/usuario/practicas/p12-intro-oop/P12_Cilindro/build/CMakeFiles/rebuild_cache.dir
+/home/usuario/practicas/p12-intro-oop/P12_Cilindro/build/CMakeFiles/edit_cache.dir
+/home/usuario/practicas/p12-intro-oop/P12_Cilindro/build/CMakeFiles/cilindro_main.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/cilindro.dir/src/cilindro.cc.o  -o cilindro 
